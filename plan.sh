@@ -16,4 +16,5 @@ pkg_build_deps=(
 )
 pkg_deps=(
   core/gcc-libs
+  core/perl
 )
