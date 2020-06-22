@@ -6,7 +6,7 @@ Groff (GNU troff) is a typesetting system that reads plain text mixed with forma
 
 ## Maintainers
 
-* The Habitat Maintainers: <humans@habitat.sh>
+* The Core Planners: <chef-core-planners@chef.io>
 
 ## Type of Package
 
