@@ -18,7 +18,7 @@ control 'core-plans-groff-works' do
   Once the path has been found, this control will loop through each of the working tests as defined in allow_lists & block_list.
   Each binary will have its version information displayed and tested for the correct version of groff.
     $ $PKG_PATH/bin/groff -v
-      GNU groff version 1.22.3
+      GNU groff version 1.22.4
 Copyright (C) 2014 Free Software Foundation, Inc.
 GNU groff comes with ABSOLUTELY NO WARRANTY.
 You may redistribute copies of groff and its subprograms
@@ -28,8 +28,8 @@ named COPYING.
 
 called subprograms:
 
-GNU grops (groff) version 1.22.3
-GNU troff (groff) version 1.22.3
+GNU grops (groff) version 1.22.4
+GNU troff (groff) version 1.22.4
   '
 
   hab_pkg_path = command("hab pkg path #{plan_ident}")
