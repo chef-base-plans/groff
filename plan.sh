@@ -13,6 +13,7 @@ pkg_build_deps=(
   core/gcc-libs
   core/make
   core/perl
+  core/texinfo
 )
 pkg_deps=(
   core/gcc-libs
